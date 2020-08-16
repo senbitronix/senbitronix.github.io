@@ -1,5 +1,5 @@
 https://senbitronix.github.io/uber/src/ - html,css, js
 
-https://senbitronix.github.io/JS/ - only JS
+https://senbitronix.github.io/JS/ - html,css, js
 
-https://senbitronix.github.io/todo-react/ - react
+https://senbitronix.github.io/todo-react/ - reactJS
